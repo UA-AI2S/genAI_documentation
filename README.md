@@ -1,10 +1,6 @@
-# Generative AI & Prompt Engineering Workshop
-
+# University of Arizona GenAI Platform Documents
 A self-paced online workshop on generative AI and prompt engineering for academic research and education.
 
-## Authors/Contributors
-
-*   [Tyson Swetnam](https://github.com/tyson-swetnam)
 
 ## License
 
@@ -14,17 +10,17 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 This documentation website is built with [Zensical](https://zensical.co/), the next-generation static site generator by the Material for MkDocs team. Zensical provides enhanced performance, better plugin support, and a modern configuration approach using TOML.
 
-## Setup & Installation
+## Clone to your local machine for editing the content
 
 To view the website locally, you will need to have Python and `pip` installed.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/tyson-swetnam/intro-gpt.git
+    git clone https://github.com/UA-AI2S/genAI_documentation.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd intro-gpt
+    cd genAI_documentation.git
     ```
 3.  Install the dependencies:
     ```bash
