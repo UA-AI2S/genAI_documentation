@@ -113,7 +113,7 @@ Quickstart = [
 #]
 
 [[project.nav]]
-Resonsible AI = [
+ResonsibleAI = [
     { Overview = "ethics.md" },
     { Bias = "bias.md" },
     { Legal = "legal.md" },
