@@ -2,7 +2,7 @@
 # Migrated from MkDocs Material
 
 [project]
-site_name = "GenAI_Platform_Docs"
+site_name = "University of Arizona GenAI "
 site_url = "https://ua-ai2s.github.io/genAI_documentation/"
 site_description = "Documentation for University of Arizona GenerativeAI Platform"
 site_author = "University of Arizona"
