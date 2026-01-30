@@ -2,9 +2,9 @@
 # Migrated from MkDocs Material
 
 [project]
-site_name = "GPT 101"
-site_url = "https://tyson-swetnam.github.io/intro-gpt"
-site_description = "Documentation for Prompt Engineering 101 Workshop"
+site_name = "GenAI_Platform_Docs"
+site_url = "https://ua-ai2s.github.io/genAI_documentation/"
+site_description = "Documentation for University of Arizona GenerativeAI Platform"
 site_author = "University of Arizona"
 copyright = "Copyright &copy; 2026 University of Arizona"
 
@@ -21,8 +21,8 @@ extra_javascript = [
 ]
 
 [project.repo]
-name = "intro-gpt"
-url = "https://github.com/tyson-swetnam/intro-gpt"
+name = "GenAI_Platform_Docs"
+url = "https://ua-ai2s.github.io/genAI_documentation/"
 edit_uri = "edit/main/docs/"
 
 [project.theme]
@@ -69,57 +69,51 @@ toggle = { icon = "material/brightness-4", name = "Switch to system preference" 
 # Navigation Structure
 [[project.nav]]
 Home = [
-    { Welcome = "index.md" },
-    { Agenda = "agenda.md" },
-    { Landscape = "ai_landscape.md" }
+    { Welcome = "index.md" }
 ]
 
 [[project.nav]]
-Setup = [
+Quickstart = [
     { Claude = "claude.md" },
-    { Gemini = "gemini.md" },
-    { OpenAI = "chatgpt.md" },
-    { Copilot = "microsoft.md" },
-    { GitHub = "copilot.md" }
 ]
 
-[[project.nav]]
-"Prompt Engineering" = [
-    { "Writing Prompts" = "prompts.md" },
-    { "General Productivity" = "daily-productivity.md" },
-    { "Code Interpreters" = "code.md" },
-    { "Vibe Coding" = "vibe.md" },
-    { "Choosing a Platform" = "choose.md" }
-]
+#[[project.nav]]
+#"Prompt Engineering" = [
+#    { "Writing Prompts" = "prompts.md" },
+#    { "General Productivity" = "daily-productivity.md" },
+#    { "Code Interpreters" = "code.md" },
+#    { "Vibe Coding" = "vibe.md" },
+#    { "Choosing a Platform" = "choose.md" }
+#]
+
+#[[project.nav]]
+#Education = [
+#    { Overview = "education.md" },
+#    { "Teaching with AI" = "teaching.md" },
+#    { "AI Tutoring" = "tutoring.md" },
+#    { "Admissions & Recruiting" = "admissions.md" },
+#    { "Plagiarism & AI Detection" = "plagiarism.md" }
+#]
+
+#[[project.nav]]
+#Research = [
+#    { Overview = "research.md" },
+#    { "Agentic AI" = "agentic.md" },
+#    { "AI Sandboxes" = "ai_sandboxes.md" },
+#    { MCP = "mcp.md" },
+#    { NotebookLM = "notebooklm.md" },
+#    { Ollama = "ollama.md" },
+#    { RAG = "rag.md" },
+#    { HuggingFace = "huggingface.md" },
+#    { Gradio = "gradio.md" },
+#    { "Jupyter AI" = "jupyter.md" },
+#    { "Posit (RStudio)" = "posit.md" },
+#    { "VS Code & AI Tools" = "vscode.md" },
+#    { "Text Mining" = "text_mining.md" }
+#]
 
 [[project.nav]]
-Education = [
-    { Overview = "education.md" },
-    { "Teaching with AI" = "teaching.md" },
-    { "AI Tutoring" = "tutoring.md" },
-    { "Admissions & Recruiting" = "admissions.md" },
-    { "Plagiarism & AI Detection" = "plagiarism.md" }
-]
-
-[[project.nav]]
-Research = [
-    { Overview = "research.md" },
-    { "Agentic AI" = "agentic.md" },
-    { "AI Sandboxes" = "ai_sandboxes.md" },
-    { MCP = "mcp.md" },
-    { NotebookLM = "notebooklm.md" },
-    { Ollama = "ollama.md" },
-    { RAG = "rag.md" },
-    { HuggingFace = "huggingface.md" },
-    { Gradio = "gradio.md" },
-    { "Jupyter AI" = "jupyter.md" },
-    { "Posit (RStudio)" = "posit.md" },
-    { "VS Code & AI Tools" = "vscode.md" },
-    { "Text Mining" = "text_mining.md" }
-]
-
-[[project.nav]]
-Ethics = [
+Resonsible AI = [
     { Overview = "ethics.md" },
     { Bias = "bias.md" },
     { Legal = "legal.md" },
@@ -182,35 +176,12 @@ combine_header_slug = true
 custom_checkbox = true
 
 # Extra Configuration (Social, Analytics, CSS/JS)
-[project.extra]
-
-[[project.extra.social]]
-icon = "fontawesome/brands/orcid"
-link = "https://orcid.org/0000-0002-6639-7181"
-
-[[project.extra.social]]
-icon = "simple/googlescholar"
-link = "https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en"
+[project.extra] 
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/tyson-swetnam/"
+link = "https://github.com/UA-AI2S"
 
-[[project.extra.social]]
-icon = "fontawesome/brands/twitter"
-link = "https://twitter.com/tswetnam"
-
-[[project.extra.social]]
-icon = "fontawesome/brands/linkedin"
-link = "https://www.linkedin.com/in/tyson-swetnam"
-
-[[project.extra.social]]
-icon = "fontawesome/brands/docker"
-link = "https://hub.docker.com/u/tswetnam"
-
-[[project.extra.social]]
-icon = "fontawesome/brands/youtube"
-link = "https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ"
 
 [project.extra.analytics]
 provider = "google"
