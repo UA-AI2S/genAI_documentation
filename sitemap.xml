@@ -4,7 +4,10 @@
         <loc>https://ua-ai2s.github.io/genAI_documentation/</loc>
       </url>
       <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/claude/</loc>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/quickstart/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/data_privacy/</loc>
       </url>
       <url>
         <loc>https://ua-ai2s.github.io/genAI_documentation/ethics/</loc>
@@ -17,14 +20,5 @@
       </url>
       <url>
         <loc>https://ua-ai2s.github.io/genAI_documentation/transparency/</loc>
-      </url>
-      <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/claude-code/</loc>
-      </url>
-      <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/tutorials/publichealth/casestudy/</loc>
-      </url>
-      <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/tutorials/publichealth/gis/</loc>
       </url>
 </urlset>
