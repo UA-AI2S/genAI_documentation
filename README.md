@@ -1,5 +1,5 @@
 # University of Arizona GenAI Platform Documents
-A self-paced online workshop on generative AI and prompt engineering for academic research and education.
+This repo is for documentation of the U of A GenAI platform. The docs website is currently being served through Github at https://ua-ai2s.github.io/genAI_documentation
 
 
 ## License
