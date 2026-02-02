@@ -11,14 +11,14 @@ copyright = "Copyright &copy; 2026 University of Arizona"
 docs_dir = "docs"
 site_dir = "site"
 
-extra_css = [
-    "stylesheets/extra.css",
-    "chatbot_widget.css"
-]
+#extra_css = [
+#    "stylesheets/extra.css",
+#    "chatbot_widget.css"
+#]
 
-extra_javascript = [
-    "chatbot_widget.js"
-]
+#extra_javascript = [
+#    "chatbot_widget.js"
+#]
 
 [project.repo]
 name = "GenAI_Platform_Docs"
