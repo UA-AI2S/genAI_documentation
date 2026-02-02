@@ -74,7 +74,12 @@ Home = [
 
 [[project.nav]]
 Quickstart = [
-    { Claude = "claude.md" },
+    { Quickstart = "quickstart.md" },
+]
+
+[[project.nav]]
+'Data Privacy' = [
+    { DataPrivacy = "data_privacy.md" },
 ]
 
 #[[project.nav]]
@@ -113,19 +118,19 @@ Quickstart = [
 #]
 
 [[project.nav]]
-ResonsibleAI = [
+'Resonsible AI' = [
     { Overview = "ethics.md" },
     { Bias = "bias.md" },
     { Legal = "legal.md" },
     { Transparency = "transparency.md" }
 ]
 
-[[project.nav]]
-Tutorials = [
-    { "Claude Code Workflow" = "claude-code.md" },
-    { "Public Health" = "tutorials/publichealth/casestudy.md" },
-    { "Map making" = "tutorials/publichealth/gis.md" }
-]
+#[[project.nav]]
+#Tutorials = [
+#    { "Claude Code Workflow" = "claude-code.md" },
+#    { "Public Health" = "tutorials/publichealth/casestudy.md" },
+#    { "Map making" = "tutorials/publichealth/gis.md" }
+#]
 
 # Markdown Extensions Configuration
 [project.markdown_extensions]
