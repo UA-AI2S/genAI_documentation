@@ -28,7 +28,7 @@ edit_uri = "edit/main/docs/"
 [project.theme]
 name = "material"
 language = "en"
-logo = "assets/ua.png"
+logo = "assets/Responsible_AI_logo.png"
 favicon = "assets/ua.ico"
 features = [
     "navigation.instant",
@@ -73,23 +73,18 @@ Home = [
 ]
 
 [[project.nav]]
-Quickstart = [
-    { Quickstart = "quickstart.md" },
+'Getting Started' = [
+    { 'Getting Access' = "getting_access.md" },
+    { 'Logging In' = "logging_in.md" },
+    { 'User Interface' = "user_interface.md" }
 ]
 
 [[project.nav]]
 'Data Privacy' = [
-    { DataPrivacy = "data_privacy.md" },
+    { 'Data Privacy' = "data_privacy.md" },
 ]
 
-#[[project.nav]]
-#"Prompt Engineering" = [
-#    { "Writing Prompts" = "prompts.md" },
-#    { "General Productivity" = "daily-productivity.md" },
-#    { "Code Interpreters" = "code.md" },
-#    { "Vibe Coding" = "vibe.md" },
-#    { "Choosing a Platform" = "choose.md" }
-#]
+
 
 #[[project.nav]]
 #Education = [
@@ -118,11 +113,9 @@ Quickstart = [
 #]
 
 [[project.nav]]
-'Resonsible AI' = [
+'Responsible AI' = [
     { Overview = "ethics.md" },
-    { Bias = "bias.md" },
-    { Legal = "legal.md" },
-    { Transparency = "transparency.md" }
+    { 'Academic Integrity' = "academic_integrity.md" },
 ]
 
 #[[project.nav]]
@@ -131,6 +124,15 @@ Quickstart = [
 #    { "Public Health" = "tutorials/publichealth/casestudy.md" },
 #    { "Map making" = "tutorials/publichealth/gis.md" }
 #]
+
+[[project.nav]]
+"Prompt Engineering" = [
+    { "Writing Prompts" = "prompts.md" },
+    { "General Productivity" = "daily-productivity.md" },
+    { "Code Interpreters" = "code.md" },
+    { "Vibe Coding" = "vibe.md" },
+    { "Choosing a Platform" = "choose.md" }
+]
 
 # Markdown Extensions Configuration
 [project.markdown_extensions]

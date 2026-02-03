@@ -1,0 +1,1 @@
+# Getting Access to U of A GenAI
