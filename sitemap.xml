@@ -4,7 +4,13 @@
         <loc>https://ua-ai2s.github.io/genAI_documentation/</loc>
       </url>
       <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/quickstart/</loc>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/getting_access/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/logging_in/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/user_interface/</loc>
       </url>
       <url>
         <loc>https://ua-ai2s.github.io/genAI_documentation/data_privacy/</loc>
@@ -13,12 +19,21 @@
         <loc>https://ua-ai2s.github.io/genAI_documentation/ethics/</loc>
       </url>
       <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/bias/</loc>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/academic_integrity/</loc>
       </url>
       <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/legal/</loc>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/prompts/</loc>
       </url>
       <url>
-        <loc>https://ua-ai2s.github.io/genAI_documentation/transparency/</loc>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/daily-productivity/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/code/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/vibe/</loc>
+      </url>
+      <url>
+        <loc>https://ua-ai2s.github.io/genAI_documentation/choose/</loc>
       </url>
 </urlset>
