@@ -22,7 +22,7 @@ Chat with state-of-the-art AI large language models (LLMs) in a secure, FERPA-co
 
 The U of A GenAI platform is developed and maintained by the [Arizona Institute for AI & Society(AI2S)](https://responsibleai.arizona.edu/ai2s) under direction of the [Office of Responsible AI](https://responsibleai.arizona.edu/ORAI) at the University of Arizona. 
 
-<img width="300" height="150" alt="orai" src="../assets/Responsible_AI_logo.png" />
+<img width="300" height="150" alt="orai" src="assets/Responsible_AI_logo.png" />
 
 
 <br>
