@@ -76,7 +76,11 @@ Home = [
 'Getting Started' = [
     { 'Getting Access' = "getting_access.md" },
     { 'Logging In' = "logging_in.md" },
-    { 'User Interface' = "user_interface.md" }
+    { 'User Interface' = "user_interface.md" },
+    { 'Model Choice' = "model_choice.md" },
+    { 'Upload Documents' = "upload_document.md" },
+    { 'Integrations' = "integrations.md" },
+    { 'Create Folders' = "folders.md" },
 ]
 
 [[project.nav]]
