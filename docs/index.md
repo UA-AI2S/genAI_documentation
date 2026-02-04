@@ -1,8 +1,5 @@
 # University of Arizona GenAI Documentation
-U of A GenAI provides advanced responsible AI for research, education, and operations.
-
-Chat with state-of-the-art AI large language models (LLMs) in a secure, FERPA-compliant environment designed for the U of A campus community.
-
+[U of A GenAI](https://responsibleai.arizona.edu/u-of-a-gen-ai) provides advanced responsible AI for research, education, and operations. Chat with state-of-the-art AI large language models (LLMs) in a secure, FERPA-compliant environment designed for the U of A campus community.
 
 
 <br>
