@@ -1,7 +1,9 @@
 # University of Arizona GenAI Documentation
-[U of A GenAI](https://responsibleai.arizona.edu/u-of-a-gen-ai) provides advanced responsible AI for research, education, and operations. Chat with state-of-the-art AI large language models (LLMs) in a secure, FERPA-compliant environment designed for the U of A campus community.
 
 
+The [U of A GenAI](https://responsibleai.arizona.edu/u-of-a-gen-ai) tool is a modern chat interface powered by leading large language models (LLMs), designed to support research, education, operations, and general use across the University of Arizona. Freely accessible to the U of A community, the platform allows users to interact with, compare, and evaluate multiple LLMs side-by-side within a single, intuitive chat experience.
+
+Whether you are exploring ideas, drafting content, analyzing documents, or prototyping workflows, the U of A GenAI tool gives you flexible access to advanced AI without compromising privacy or data security at no cost.
 <br>
 <br>
 <br>
