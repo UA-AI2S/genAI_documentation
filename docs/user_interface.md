@@ -151,10 +151,12 @@ This feature lets you take a screen capture of your desktop, a browser tab, or a
 <br>
 <br>
 
-## Reference Charts
+## Reference Chats
 
 <img width="30" height="30" alt="orai" src="../assets/more.png" />
 <img width="150" height="60" alt="orai" src="../assets/reference_charts.png" />
+
+This option lets you reference previous chats while you chat in a current session. 
 
 <br>
 <br>
